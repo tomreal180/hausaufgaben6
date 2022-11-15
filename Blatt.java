@@ -9,6 +9,9 @@ public class Blatt {
 			 this.res=a;
 		 }
 	 }
+	 public int[] getValue() {
+		 return res;
+	 }
 	 
 	 public String toString() {
 		 return String.join(", ",String.valueOf(res[0]),String.valueOf(res[1]),String.valueOf(res[2]));
