@@ -32,6 +32,7 @@ public class test {
 		werteAus(paarHoch, paarNiedrig, bv);
 		werteAus(paarHoch, paarHoch2, bv);
 		werteAus(einfachNiedrig, einfachHoch, bv);
+		system.out.println("Minh Duc Dep trai")
 
 	}
 }
